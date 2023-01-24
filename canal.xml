@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Canal de Noticias</title>
+        <link>http://localhost/</link>
+        <description>Canal realizado para la Tarea de la unidad de trabajo 3 del módulo de Lenguajes de Marcas y Sistemas de Gestión de la Información</description>
+        <language>es-es</language>
+
+        <item>
+            <title>Blog IES Augusto G. Linares</title>
+            <link>https://agustoenelaugusto.com/</link>
+            <description>Blog donde se publica la actualidad del centro</description>
+            <guid>https://agustoenelaugusto.com/</guid>
+        </item>
+
+        <item>
+            <title>Página web IES Augusto G. Linares</title>
+            <link>http://www.iesaglinares.com/</link>
+            <description>Información acerca del centro formativo.</description>
+            <guid>http://www.iesaglinares.com/</guid>
+        </item>
+
+        <item>
+            <title>Noticia deportiva</title>
+            <link>http://localhost/RSS/actualidad/index.html</link>
+            <description>Noticia sobre la actualidad del Sumo en Japón</description>
+            <guid>http://localhost/RSS/actualidad/index.html</guid>
+        </item>
+    </channel>
+</rss>
