@@ -143,3 +143,9 @@ figure {
     font-size: .8rem;
     color: #878787;
 }
+
+.col-med {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
